@@ -1,17 +1,13 @@
 {
-  "baseURL": "https://hello.world",
-  "author": "hello.world",
-  "description": "hello.world - Venture Capital",
-  "title": "hello.world - Venture Capital",
-  "language": "en",
+  "baseURL": "https://9bstolingymnasium.ml",
+  "author": "9bstolingymnasium",
+  "description": "9bstolingymnasium - все сайты 9Б Столинской государственной гимназии",
+  "title": "Все сайты 9Б Столинской государственной гимназии",
+  "language": "ru",
   "social": [
     {
-      "title": "Twitter",
-      "url": "https://twitter.com/#"
-    },
-    {
-      "title": "LinkedIn",
-      "url": "https://linkedin.com/company/#"
+      "title": "Instagram",
+      "url": "https://www.instagram.com/9b_stolin_gym/"
     }
   ]
 }
